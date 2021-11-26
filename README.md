@@ -5,3 +5,5 @@ PyChain is an implementation of a simple blockchain with a focus on ease of depl
 Sample Output 
 
 ![image](https://user-images.githubusercontent.com/54507769/143548811-f7efc4a5-fcff-460f-ab97-75a2f7785fff.png)
+
+![image](https://user-images.githubusercontent.com/54507769/143548983-774f7864-f3f0-48ec-8750-0004bcb8277b.png)
