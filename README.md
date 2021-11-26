@@ -8,14 +8,16 @@ PyChain is an implementation of a simple blockchain with a focus on ease of depl
 
 ![image](https://user-images.githubusercontent.com/54507769/143548983-774f7864-f3f0-48ec-8750-0004bcb8277b.png)
 
-<h2> Data Flow Diagram <h2> 
+<h2> How to Run <h2> 
   
- ![image](https://user-images.githubusercontent.com/54507769/143549802-2b5082e2-2cdd-4991-b921-f59bba6438ad.png)
+Technologies Required: 
   
-<h2> High Level Architecture </h2> 
+  - <a href= "https://www.jetbrains.com/pycharm/download/#section=windows" target = "_blank"> PyCharm </a>
+  - <a href= "https://www.python.org/downloads/" target = "_blank"> Python </a>
+  - <a href= "https://plugins.jetbrains.com/plugin/7495--ignore" target = "_blank"> .ignore </a> 
   
- ![image](https://user-images.githubusercontent.com/54507769/143549848-c34661ee-c110-4c42-a96d-9867713eb79b.png)
-
-<h2> Low Level Architecture </h2> 
+  Steps 
   
-  ![image](https://user-images.githubusercontent.com/54507769/143549879-f8f5fc05-8908-4b7e-832c-75e39dc667c2.png)
+  - Download and configure PyCharm IDE with .ignore
+  - Make sure to download Python 3.10.0 
+  - Compress all files into one before running the code on PyCharm 
