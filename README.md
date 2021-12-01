@@ -18,6 +18,10 @@ Technologies Required:
   
   Steps 
   
-  - Download and configure PyCharm IDE with .ignore
+  - Download and configure PyCharm IDE with Python
   - Make sure to download Python 3.10.0 
-  - Compress all files into one before running the code on PyCharm 
+  - Compress all files into one before Opening the file on PyCharm 
+  - Click on "Add Configurations"
+  - Click on "Templates"
+  - Click on "Python" and make sure "Add content roots to PYTHONPATH"/"Add source roots to PYTHONPATH" are both checked 
+  - Click on "Run" 
